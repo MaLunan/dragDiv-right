@@ -1,0 +1,15 @@
+{
+  "name": "dragdiv-right",
+  "version": "1.0.2",
+  "description": "场景：左侧菜单栏，右侧内容区，可以拖拽菜单栏右侧边界控制菜单栏宽度",
+  "main": "index.js",
+  "dependencies": {
+    "nrm": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "malunan",
+  "license": "ISC"
+}
